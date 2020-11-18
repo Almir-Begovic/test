@@ -1,0 +1,9 @@
+version: 0.2
+
+phases:
+    install:
+        runtime-versions:
+            dotnet: 2.2
+    build:
+        commands:
+            - dotnet build -c Release ./Search Api.csproj/Search Api.csproj
