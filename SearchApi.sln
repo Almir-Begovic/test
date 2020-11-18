@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search Api", "Search Api\Search Api.csproj", "{60026301-7DA2-4765-92AB-0680F25F4A4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchApi", "SearchApi\SearchApi.csproj", "{D85E9833-EF40-4071-A315-F42A643512DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{60026301-7DA2-4765-92AB-0680F25F4A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60026301-7DA2-4765-92AB-0680F25F4A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60026301-7DA2-4765-92AB-0680F25F4A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60026301-7DA2-4765-92AB-0680F25F4A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85E9833-EF40-4071-A315-F42A643512DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85E9833-EF40-4071-A315-F42A643512DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85E9833-EF40-4071-A315-F42A643512DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85E9833-EF40-4071-A315-F42A643512DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {081B0CC5-FBBF-4D5F-B2AC-4987935CC497}
+		SolutionGuid = {7C2FEF56-8FCF-4958-9FE5-931171EDD3A7}
 	EndGlobalSection
 EndGlobal

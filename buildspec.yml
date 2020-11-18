@@ -6,4 +6,4 @@ phases:
             dotnet: 2.2
     build:
         commands:
-            - dotnet build -c Release ./Search Api/Search Api.csproj
+            - dotnet build -c Release ./SearchApi/SearchApi.csproj
