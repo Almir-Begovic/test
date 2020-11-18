@@ -8,9 +8,3 @@ phases:
         commands:
             - dotnet build -c Release ./SearchApi/SearchApi.csproj
             - dotnet test -c Release ./SearchApiTests/SearchApiTests.csproj --logger trx --results-directory ./testresults
-reports:
-    DotnetTestExamples:
-        file-format: VisualStudioTrx
-        files:
-            - '**/*'
-        base-directory: './testresults'
